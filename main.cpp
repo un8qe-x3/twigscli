@@ -38,6 +38,7 @@ int main() {
         switch(inp) {
 			case 'v':
 				cout << "alpha 0.0.1\npatches: 0";
+				break;
             case 'e':
                 delete root;
                 exit(0);
